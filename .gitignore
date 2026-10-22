@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local CIFAR-10 download
+/data/cifar-10-python.tar.gz
+/data/cifar-10-batches-py/
+
+# Generated experiment outputs
+/log/*.txt
+/model/
+/plot/
+/runs/
